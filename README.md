@@ -1,6 +1,6 @@
 # Coin-Dispenser
 
-#I. Option to access the application on the internet
+# I. Option to access the application on the internet
 The frontend has been hosted on aws s3 bucket and can be accessed on the url http://mobisite.com.s3-website.af-south-1.amazonaws.com/
 The backend has been hosted on a private aws ec2 instance.
 This is a much easier way to access the solution
